@@ -71,4 +71,4 @@ train_model(model_resnet50, train_X, train_Y, valid_X, valid_Y, NUM_EPOCH)
 evaluate_model(model_resnet50, valid_X, valid_Y)
 '''
 
-#  ROC curves, AUC computation, etc., can be run as well from performance_auc.py
+#  ROC curves, AUC computation, etc., can be run 
